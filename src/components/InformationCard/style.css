@@ -1,0 +1,20 @@
+.text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: rgb(119, 21, 143);
+  color: rgb(234, 200, 205);
+  width: 20rem;
+  height: 15rem;
+  border-radius: 50px;
+  text-align: center;
+}
+
+.text h1 {
+  font-size: 25px;
+}
+
+.text h2 {
+  font-size: 20px;
+}
